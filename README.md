@@ -18,9 +18,9 @@
 
    
 
-   ![interface_1](.\interface_1.png)
+   ![interface_1](./interface_1.png)
 
-![interface_1](.\interface_2.png)
+![interface_1](./interface_2.png)
 
 
 
