@@ -1,5 +1,11 @@
 # CV_interface
-https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+
+<p>
+  <!-- iOS -->
+  <a href="https://www.microsoft.com/en-au/windows?r=1">
+    <img alt="Supports Expo Windows" longdesc="Supports Expo Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>
+</p>
 1. Introduction
 
    A imaging software made by pyQt5.
